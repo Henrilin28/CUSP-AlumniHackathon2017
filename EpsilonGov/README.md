@@ -7,6 +7,37 @@
 - Priyanshi Singh
 - Achilles Saxby
 
+Structure of this repository: 
+
+    .
+    ├── EpsilonGov.pptx
+    ├── README.md
+    ├── data
+    │   ├── charge.csv
+    │   ├── fact_to_whole_data_set.csv
+    │   ├── hackathon-CUSP-WI_clean.csv
+    │   ├── hackathon-CUSP-WI_clean.xls
+    │   ├── heatmap_incdient.png
+    │   ├── prepocessed_data.csv
+    │   ├── spatial_countries.csv
+    │   ├── spatial_visual.csv
+    │   └── wi_centroid.csv
+    ├── image
+    │   ├── Charges_HeatMap.png
+    │   ├── Incidents_HeatMap.png
+    │   ├── Maps\ -\ Severity:Class
+    │   ├── PresecutionIssued.png
+    │   ├── incident\ density\ by\ defendant\ zip.JPG
+    │   └── incident\ density\ by\ incident\ zip.JPG
+    └── notebook
+        ├── Data_Cleaning_Code.ipynb
+        ├── EDA.ipynb
+        ├── Epsilon.ipynb
+        ├── Mixing_Matching_Severity_Class.ipynb
+        └── PCA.ipynb
+
+
+
 #### Data Preprocessing:
 Here is some fact about the dataset: 
 - DA case status: NOT A HELPFUL FIELD. Exclude.
